@@ -1,0 +1,35 @@
+{
+    "appKeys": {
+        "Breakfast": 0,
+        "Dinner": 2,
+        "Lunch": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "stroy1@binghamton.edu",
+    "longName": "BU Dining",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_ACTION_ICON_MINUS",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "IMAGE_ACTION_ICON_PLUS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "BU Dining",
+    "uuid": "00900509-140b-4d7e-a2b4-087171efb451",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
