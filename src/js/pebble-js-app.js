@@ -1,7 +1,7 @@
 function fetchMenu(longitude) {
   var response;
   var req = new XMLHttpRequest();
-  req.open('GET', "http://www.kimonolabs.com/api/a1dy3kj0?apikey=2ce4e986abdd758143ca2880928b529d", true);
+  req.open('GET', "http://www.kimonolabs.com/api/a1dy3kj0?apikey=", true);
   req.onload = function(e) {
     if (req.readyState == 4) {
       if(req.status == 200) {
